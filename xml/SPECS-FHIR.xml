@@ -169,6 +169,7 @@
   <specification key="eu-r5-extensions" name="EU Extensions (R5)" deprecated="true"/>
   <specification key="eu-imaging-r5" name="EU Imaging Study Report (R5)"/>
   <specification key="eu-imaging" name="EU Imaging Study Report (R4)"/>
+  <specification key="eu-imaging-manifest" name="EU Imaging Manifest and Access (IHE-MADO additions)"/>
   <specification key="eu-hdr" name="EU Hospital Discharge Report"/>
   <specification key="eu-mpd" name="EU Medication Prescription and Dispense (R4)"/>
   <specification key="eu-mpd-r5" name="EU Medication Prescription and Dispense (R5)"/>
@@ -218,4 +219,5 @@
   <specification key="testing" name="Testing Incubator IG"/>
   <specification key="sql-on-fhir" name="SQL on FHIR"/>
   <specification key="mapping-language" name="FHIR Mapping Language"/>
+  <specification key="api-incubator" name="FHIR-I API Incubator"/>
 </specifications>
